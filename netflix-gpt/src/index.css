@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* In your styles or Tailwind CSS configuration
+
+/* Assuming you have a custom class named 'custom-scrollbar' */
+ .custom-scrollbar::-webkit-scrollbar {
+    display: none; /* Hide the default scrollbar */
+   } 
+
+   /* body{
+      background-color: black;
+   } */
+    
